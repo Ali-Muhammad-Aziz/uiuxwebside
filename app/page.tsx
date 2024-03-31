@@ -14,6 +14,7 @@ export default function Home() {
       <div className="px-[20px] lg:container lg:px-20 mx-auto">
         <Features />
         <Faq />
+        
         <Pricing />
         <Cta />
         <Footer />
